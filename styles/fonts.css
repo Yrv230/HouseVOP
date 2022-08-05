@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Raleway-reg';
+    src: url('../fonts/Raleway-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Raleway-bold';
+    src: url('../fonts/Raleway-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto-light';
+    src: url('../fonts/Roboto-Light.ttf');
+}
+
+@font-face {
+    font-family: 'RlayfairDisplay-bold';
+    src: url('../fonts/PlayfairDisplay-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'PostNoDillsJaffna-reg';
+    src: url('../fonts/PostNoBillsJaffna-Regular.ttf');
+}
