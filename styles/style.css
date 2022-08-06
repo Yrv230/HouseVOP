@@ -33,7 +33,7 @@
     justify-content: space-between;
 }
 
-.header__nav-logo {
+.logo {
     color: #FFFFFF;
     font-family: 'PostNoDillsJaffna-reg';
     font-size: 36px;
@@ -42,7 +42,7 @@
     flex-direction: column;
 }
 
-.header__nav-logo span {
+.logo span {
     font-family: 'Raleway-reg';
     font-size: 12px;
     line-height: 14px;
@@ -355,5 +355,41 @@
     align-items: center;
 }
 
-
 /* MAIN END */
+
+/* FOOTER START */
+
+.footer {
+    background: #2D343C;
+    padding: 60px 0 50px 0;
+}
+
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__content-menu, .footer__content-links {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+.footer__content-item, .footer__content-link {
+    color: #FFFFFF;
+    font-family: 'Raleway-reg';
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.footer__content-email {
+    color: #D4C17F;
+}
+
+.footer__content-socials {
+    display: flex;
+    column-gap: 20px;
+    margin-top: 5px;
+}
+
+/* FOOTER END */
